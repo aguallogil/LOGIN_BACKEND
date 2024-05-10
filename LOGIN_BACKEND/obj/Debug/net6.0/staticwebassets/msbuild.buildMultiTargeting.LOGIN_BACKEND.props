@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LOGIN_BACKEND.props" />
+</Project>
